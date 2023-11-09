@@ -1,0 +1,2 @@
+# ignoramos los módulos que se generan al instalar dependencias con npm
+node_modules/
